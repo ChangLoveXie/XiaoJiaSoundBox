@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">XiaoJiaSoundBox</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="discover">发现</string>
+    <string name="chat">对话</string>
+    <string name="device">设备</string>
+    <string name="castpal">Castpal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adddevice">添加设备</string>
+    <string name="keepgoing">继续</string>
+    <string name="indication">请确认音箱进入匹配模式</string>
+    <string name="searching">正在查找小佳智能音箱</string>
+    <string name="error_bluetooth_not_supported">手机不支持蓝牙</string>
+    <string name="ble_not_supported">手机不支持低功耗蓝牙</string>
+    <string name="default_device_name">小佳智能音箱</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">未连接</string>
+    <string name="connecting">正在连接小佳智能音箱</string>
+    <string name="device_control_setwifi">设置WIFI</string>
+    <string name="setvolumn_up">调节音量</string>
+    <string name="inputpwd">请输入密码</string>
+    <string name="confrim">确认</string>
+    <string name="makelifecolorful">Make Life Colorful</string>
+    <string name="reserve">功能正在开发中，请耐心等待</string>
+</resources>
